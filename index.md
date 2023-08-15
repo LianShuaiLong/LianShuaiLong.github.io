@@ -24,7 +24,7 @@ layout: about
 * 其他：分布式训练(pytorch原生,horovod),pytorhc-onnx-trt/ncnn
 
 # 兴趣点
-* 图像处理,图像识别,Image matting
+* 图像处理,图像识别,Image matting,图像自监督/表征学习
 * AIGC(text-to-image,diffusion model,GAN),可控图像生成
 * 推荐系统  
 <br/>

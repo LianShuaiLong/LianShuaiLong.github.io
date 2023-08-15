@@ -3,7 +3,9 @@ layout: about
 ---
 
 # 关于我
-算法工程师，本硕毕业于大连理工大学(2012-2019)
+算法工程师，本硕毕业于大连理工大学(2012-2019)    
+[知乎](https://www.zhihu.com/people/lian-shuai-long)    
+[github](https://github.com/LianShuaiLong)
 <br/>
 
 # 工作经历
@@ -22,8 +24,9 @@ layout: about
 * 其他：分布式训练(pytorch原生,horovod),pytorhc-onnx-trt/ncnn
 
 # 兴趣点
-AIGC(text-to-image,diffusion model,GAN),可控图像生成
-推荐系统  
+* 图像处理,图像识别,Image matting
+* AIGC(text-to-image,diffusion model,GAN),可控图像生成
+* 推荐系统  
 <br/>
 
 # 论文及专利

@@ -3,6 +3,7 @@ layout: about
 ---
 
 # 关于我
+<img src="./assets/img/profile.jpg" width="96">
 算法工程师，本硕毕业于大连理工大学(2012-2019) 
 <ul>
   <li> <a href="https://www.zhihu.com/people/lian-shuai-long"><img src="./assets/img/zhihu.png" width="50"></a> </li>
@@ -16,17 +17,17 @@ layout: about
     * 负责视频推荐及视频封面CTR预估
     * 负责AIGC(text-to-image)及Lora插件开发，参与首个汽车行业大模型仓颉-13B的开发工作
 * BIGO (2019/07 ~ 2020/07)
-  * 参与OCR识别算法优化迭代，负责OCR算法的部署
+  * 参与OCR识别算法优化迭代,负责OCR算法的部署
   * 参数视频质量评估算法开发
 <br/>
 
 # 技术点
 * 开发语言:python,c++
-* 工具类:hive,sql,spark,git,Docker
-* 其他：分布式训练(pytorch原生,horovod),pytorhc-onnx-trt/ncnn
+* 工具类:hive,sql,spark,git,Docker,hadoop
+* 其他：分布式训练(pytorch原生,horovod),pytorch-onnx-trt/ncnn
 
 # 兴趣点
-* 图像处理,图像识别,Image matting,图像自监督/表征学习
+* 图像处理,图像识别,Image matting,图像自监督/表征学习(MAE),transformer
 * AIGC(text-to-image,diffusion model,GAN),可控图像生成
 * 推荐系统  
 <br/>

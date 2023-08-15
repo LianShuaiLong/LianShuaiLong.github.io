@@ -4,6 +4,7 @@ layout: about
 
 # 关于我
 <img src="./assets/img/profile.jpg" width="96">
+<br/>
 算法工程师，本硕毕业于大连理工大学(2012-2019) 
 <ul>
   <li> <a href="https://www.zhihu.com/people/lian-shuai-long"><img src="./assets/img/zhihu.png" width="50"></a> </li>

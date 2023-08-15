@@ -5,7 +5,9 @@ layout: about
 # 关于我
 算法工程师，本硕毕业于大连理工大学(2012-2019) 
 <ul>
-  <a href="https://www.zhihu.com/people/lian-shuai-long"><img src="./assets/img/zhihu.png" width="50"> <a href="https://github.com/LianShuaiLong"><img src="./assets/img/github.png" width="50" height="50"></a> 
+  <li> <a href="https://www.zhihu.com/people/lian-shuai-long"><img src="./assets/img/zhihu.png" width="50"></a> </li>
+  <li> <a href="https://github.com/LianShuaiLong"><img src="./assets/img/github.png" width="50" height="50"></a> </li>
+</ul>  
 <br/>
 
 # 工作经历

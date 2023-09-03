@@ -17,6 +17,10 @@ layout: about
     * 负责拍照识车算法开发及服务端/移动端部署
     * 负责视频推荐及视频封面CTR预估
     * 负责AIGC(text-to-image)及Lora插件开发，参与首个汽车行业大模型仓颉-13B的开发工作
+    * 部分算法效果：
+    指令更换背景：
+    ![根据不同prompt更换汽车背景](./assets/img/image-inpainting.png "根据不同prompt更换汽车背景")
+    美女车模:
 * BIGO (2019/07 ~ 2020/07)
   * 参与OCR识别算法优化迭代,负责OCR算法的部署
   * 参数视频质量评估算法开发

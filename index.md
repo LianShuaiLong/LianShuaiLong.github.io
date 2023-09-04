@@ -31,8 +31,11 @@ layout: about
     ![汽车创意Lora](./assets/img/fantacy.png "汽车创意Lora")
 
 * BIGO (2019/07 ~ 2020/07)
-  * 参与OCR识别算法优化迭代,负责OCR算法的部署
-  * 参数视频质量评估算法开发
+  * 参与OCR识别系统开发  
+    负责图片分类(是否有文字)模块开发 
+    负责OCR检测模块开发及优化(PSE->DBNet)  
+    负责评估测试集的开发及优化迭代
+  * 负责视频质量评估算法开发(Learning to rank)
 <br/>
 
 # 技术点

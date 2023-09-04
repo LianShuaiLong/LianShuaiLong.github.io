@@ -22,13 +22,13 @@ layout: about
     * 部分算法效果:  
 
     指令更换背景:  
-    ![根据不同prompt更换汽车背景](./assets/img/image-inpainting.png "根据不同prompt更换汽车背景")  
+    <img src="./assets/img/image-inpainting.png" height=50%> 
 
     美女车模:  
-    ![美女车模Lora](./assets/img/beauty.png "美女车模Lora")
+    <img src="./assets/img/beauty.png" height=50%>
       
     汽车创意:
-    ![汽车创意Lora](./assets/img/fantacy.png "汽车创意Lora")
+    <img src="./assets/img/fantacy.png" height=50%>
 
 * BIGO (2019/07 ~ 2020/07)
   * 参与OCR识别系统开发  

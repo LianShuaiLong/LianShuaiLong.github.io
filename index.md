@@ -21,13 +21,13 @@ layout: about
     * 负责"指令更换背景"算法开发及优化
     * 部分算法效果:  
 
-    指令更换背景:  
+    (AIGC)指令更换背景:  
     <img src="./assets/img/image-inpainting.png" height=200> 
 
-    美女车模:  
+    (AIGC)美女车模:  
     <img src="./assets/img/beauty.png" height=200>
       
-    汽车创意:  
+    (AIGC)汽车创意:  
     <img src="./assets/img/fantacy.png" height=200>
 
 * BIGO (2019/07 ~ 2020/07)

@@ -22,13 +22,13 @@ layout: about
     * 部分算法效果:  
 
     指令更换背景:  
-    <img src="./assets/img/image-inpainting.png" height=50%> 
+    <img src="./assets/img/image-inpainting.png" width=50%> 
 
     美女车模:  
-    <img src="./assets/img/beauty.png" height=50%>
+    <img src="./assets/img/beauty.png" width=50%>
       
     汽车创意:
-    <img src="./assets/img/fantacy.png" height=50%>
+    <img src="./assets/img/fantacy.png" width=50%>
 
 * BIGO (2019/07 ~ 2020/07)
   * 参与OCR识别系统开发  

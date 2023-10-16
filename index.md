@@ -26,9 +26,13 @@ layout: about
 
     (AIGC)美女车模:  
     <img src="./assets/img/beauty.png" height=200>
+
+    (AIGC)IP模特:
+    <img src="./assets/img/IP.png" height=200>
       
     (AIGC)汽车创意:  
     <img src="./assets/img/fantacy.png" height=200>
+
 
 * BIGO (2019/07 ~ 2020/07)
   * 参与OCR识别系统开发  

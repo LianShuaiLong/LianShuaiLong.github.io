@@ -30,6 +30,7 @@ layout: about
     (AIGC)IP模特:  
     <img src="./assets/img/IP.png" height=300>  
     <img src="./assets/img/IPIMAGE2.png" height=300>
+    <img src="./asserts/img/bangbao_inpainting.png" height=300>
       
     (AIGC)汽车创意:  
     <img src="./assets/img/fantacy.png" height=200>

@@ -33,7 +33,7 @@ layout: about
     <img src="./assets/img/bangbao_inpainting.png" height=300>  
     <mg src="./assets/img/jingyun_2.png" height=300>  
       
-    (AIGC)汽车创意:  
+    (AIGC)汽车创意:   
     <img src="./assets/img/fantacy.png" height=200>
 
 

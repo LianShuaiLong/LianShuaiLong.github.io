@@ -32,7 +32,8 @@ layout: about
     <img src="./assets/img/bangbao_inpainting.png" height=400>  
     (AIGC)IP模特-2:        
     <img src="./assets/img/jingyun_text2img.png" height=300>  
-    <img src="./assets/img/jingyun_inpainting.png" height=400> 
+    <img src="./assets/img/jingyun_inpainting.png" height=400>  
+    <img src="./assets/img/jingyun_inpainting_2.png" height=400>
 
     (AIGC)可控生成:    
     <img src="./assets/img/control.png" height=400>
